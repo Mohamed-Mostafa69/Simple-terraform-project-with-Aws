@@ -3,15 +3,15 @@
 Steps to Create this project
 ----------------------------
 Aws Account / IAM user
-1- Create vpc
-2- Create Internet Gateway
-3- Create Custom Route Table
-4- Create a Subnet
-5- Associate subnet with Route table
-6- Create Security Group to allow port 22,80,443
-7- Create A Network Interface with an Ip in the Subnet that was Created in Step 4
-8- Assign an elastic Ip to the network interface created in step 7
-9- Create Ubuntu Server and install/enable apache2
+- 1- Create vpc
+- 2- Create Internet Gateway
+- 3- Create Custom Route Table
+- 4- Create a Subnet
+- 5- Associate subnet with Route table
+- 6- Create Security Group to allow port 22,80,443
+- 7- Create A Network Interface with an Ip in the Subnet that was Created in Step 4
+- 8- Assign an elastic Ip to the network interface created in step 7
+- 9- Create Ubuntu Server and install/enable apache2
 
 Run Terraform
 -------------
