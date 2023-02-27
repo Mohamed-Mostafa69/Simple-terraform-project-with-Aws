@@ -1,0 +1,5 @@
+.terraform
+Deploy-a-High-Availability-Web-App-Using-Terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
